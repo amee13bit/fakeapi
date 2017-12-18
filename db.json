@@ -1,0 +1,38 @@
+{
+	"users":[
+		{
+			"id":"1",
+			"Firstname":"ameer",
+			"lastname":"mk"
+	},
+	{
+			"id":"2",
+			"Firstname":"ameer1",
+			"lastname":"dk"
+	},
+	{
+			"id":"3",
+			"Firstname":"ameer2",
+			"lastname":"sk"
+	}
+
+],
+"company":[
+
+	{
+		"id":"1",
+		"name":"info"
+
+	},
+	{
+		"id":"2",
+		"name":"infosolutions"
+
+	},
+	{
+		"id":"3",
+		"name":"inksolutions"
+
+	}
+]
+}
